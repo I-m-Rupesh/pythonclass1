@@ -38,6 +38,8 @@ print(fname.find('P'))
 # else:
 #     print("Password not valid")
 
+# if password length more than 6 then accept else reject
+
 
 
 
